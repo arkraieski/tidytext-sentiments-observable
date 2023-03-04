@@ -1,0 +1,14 @@
+{
+  "name": "@akraieski/tidytext-sentiment-lexicons",
+  "main": "2cd0d4aed723c32b@108.js",
+  "version": "108.0.0",
+  "homepage": "https://observablehq.com/@akraieski/tidytext-sentiment-lexicons",
+  "author": {
+    "name": "Alex Kraieski",
+    "url": "https://observablehq.com/@akraieski"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
